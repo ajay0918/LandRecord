@@ -35,7 +35,7 @@ data modeling efforts provided a solid foundation for our data processing and an
 NA (Not use database)
 
 
-Code Quality - Linting :-
+* Code Quality - Linting :-
 I have done unit test for funtion that is taken in main.py file than extract data for one survey number table and export file in xlsx format.
 
 
