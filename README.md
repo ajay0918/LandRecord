@@ -1,4 +1,4 @@
-
+Assignment: Junior Data Engineer- Web Scraping
 
 * Research and Analysis
 "In my work with Python Scrapy, I conducted thorough research and analysis to identify target websites, understand their structures,
