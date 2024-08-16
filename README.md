@@ -39,7 +39,8 @@ NA (Not use database)
 I have done unit test for funtion that is taken in main.py file than extract data for one survey number table and export file in xlsx format.
 
 
-Note :- I have developed script for the given domain url by keeping mind above points.
+Note :- I have developed script "main.py" file so please take script from it.
+        I have developed script for the given domain url by keeping mind above points. 
 
 
 
