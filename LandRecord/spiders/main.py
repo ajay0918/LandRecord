@@ -139,8 +139,8 @@ def jamabandi_nic_in():
 #---------- Data file export in excel format -----------#
 
     df = pd.DataFrame([item])
-    df.to_excel('jamabandi.xlsx', index=False)
-
+    # df.to_excel('jamabandi.xlsx', index=False)
+    df.to_json('jamabandi.json', index=False)
 
 if __name__ == '__main__':
     jamabandi_nic_in()
